@@ -9,9 +9,9 @@ use Medoo\Medoo;
 $database = new Medoo([
     'database_type' => 'mysql',
     'database_name' => 'upTest',
-    'server' => '127.0.0.1',
-    'username' => 'root',
-    'password' => '4351zzzz',
+    'server' => '',
+    'username' => '',
+    'password' => '',
 ]);
 
 // -------seed fake data with --------
